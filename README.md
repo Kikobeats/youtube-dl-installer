@@ -1,7 +1,5 @@
 # youtube-dl-installer
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/youtube-dl-installer.svg)](https://greenkeeper.io/)
-
 ![Last version](https://img.shields.io/github/tag/Kikobeats/youtube-dl-installer.svg?style=flat-square)
 [![Build Status](https://img.shields.io/travis/Kikobeats/youtube-dl-installer/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/youtube-dl-installer)
 [![Dependency status](https://img.shields.io/david/Kikobeats/youtube-dl-installer.svg?style=flat-square)](https://david-dm.org/Kikobeats/youtube-dl-installer)
